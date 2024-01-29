@@ -1,6 +1,14 @@
 
 ## Object orientation exercise
 
+* Create a class that represents a simple to-do list item. The class should have
+ attributes like task description, due date, and completion status. Then,
+create a list of these items, display incomplete tasks, and mark tasks as complete.
+
+* Make a method that completes all the tasks in one go
+
+
+
 * Write a `Track` class, representing an audio track on some sound medium. Give
   the class two attributes, one describing the track, and another specifying the
   length of the track (in minutes).
