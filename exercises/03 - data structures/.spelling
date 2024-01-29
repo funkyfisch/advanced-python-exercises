@@ -1,0 +1,15 @@
+# markdown-spellcheck spelling configuration file
+# Format - lines beginning # are comments
+# global dictionary is at the start, file overrides afterwards
+# one word per line, to define a file override use ' - filename'
+# where filename is relative to this configuration file
+ - exercises/03 - data structures/03 - data structures.md
+dfs
+jfk
+cgk
+cph
+ - exercises/src/03 - data structures/03 - data structures.md
+dfs
+cgk
+jfk
+cph
